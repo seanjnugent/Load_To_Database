@@ -1,0 +1,12 @@
+# SQL Server configuration
+ss_server = ''
+ss_database = ''
+ss_username = ''
+ss_password = ''
+
+# Postgres Configuration
+pg_hostname='''
+pg_database=''
+pg_username=''
+pg_password=''
+pg_port=''
