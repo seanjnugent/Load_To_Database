@@ -1,4 +1,4 @@
-## Data Import Utility
+# Data Import Utility
 # Purpose
 Automate importing CSV, XLS, and XLSX files into SQL Server or PostgreSQL databases with robust error handling and naming sanitization.
 
